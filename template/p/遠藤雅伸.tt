@@ -1,6 +1,0 @@
-[% WRAPPER 'include/layout.tt' WITH title = '遠藤雅伸' %]
-<div id="content">
-<h1>遠藤雅伸</h1>
-<p>ごめんなさい現在準備中です</p>
-</div>
-[% END %]
