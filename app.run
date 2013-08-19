@@ -1,5 +1,0 @@
-#!/bin/sh
-
-exec 2>&1
-cd /home/kitada/iwategamedevelopers.com/master || exit 1
-RUN_MODE='deployment' exec /usr/local/bin/start_server --port=127.0.0.1:5002 -- plackup -s Starlet --max-workers=10 app.psgi
