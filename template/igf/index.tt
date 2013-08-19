@@ -3,16 +3,23 @@
 <div id="content">
   <h1>I.G.F講師、ゲーム開発系情報</h1>
   <ul class="nav nav-tabs">
-    <li class="active"><a href="#">あ</a></li>
-    <li><a href="#">か</a></li>
-    <li><a href="#">さ</a></li>
-    <li><a href="#">た</a></li>
-    <li><a href="#">な</a></li>
-    <li><a href="#">は</a></li>
-    <li><a href="#">ま</a></li>
-    <li><a href="#">や</a></li>
-    <li><a href="#">わ</a></li>
+    <li class="active"><a href="#j_a">あ</a></li>
+    <li><a href="#j_ka">か</a></li>
+    <li><a href="#j_sa">さ</a></li>
+    <li><a href="#j_ta">た</a></li>
+    <li><a href="#j_na">な</a></li>
+    <li><a href="#j_ha">は</a></li>
+    <li><a href="#j_ma">ま</a></li>
+    <li><a href="#j_ya">や</a></li>
+    <li><a href="#j_wa">わ</a></li>
   </ul>
-  <p>現在準備中～</p>
+
+  <div id="myTabContent" class="tab-content">
+    <div class="tab-pane fade in active" id="j_a">
+      <ul>
+        <li><a href="/p/遠藤雅伸">遠藤雅伸</a>
+      </ul>
+    </div>
+  </div>
 </div>
 [% END %]
