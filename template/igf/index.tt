@@ -20,6 +20,34 @@
         <li><a href="/p/遠藤雅伸">遠藤雅伸</a>
       </ul>
     </div>
+
+    <div class="tab-pane fade in active" id="j_ka">
+    </div>
+
+    <div class="tab-pane fade in active" id="j_saa">
+    </div>
+
+    <div class="tab-pane fade in active" id="j_ta">
+    </div>
+
+    <div class="tab-pane fade in active" id="j_na">
+    </div>
+
+    <div class="tab-pane fade in active" id="j_haa">
+    </div>
+
+    <div class="tab-pane fade in active" id="j_ma">
+    </div>
+
+    <div class="tab-pane fade in active" id="j_ya">
+    </div>
+
+    <div class="tab-pane fade in active" id="j_ra">
+    </div>
+
+    <div class="tab-pane fade in active" id="j_wa">
+    </div>
+
   </div>
 </div>
 [% END %]
