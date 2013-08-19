@@ -2,18 +2,16 @@
       <div id="content">
         <div class="toptitle hero-unit">
           <div class="title">Iwate Game Developers</div>
-          <br>
-          <p>
-            知恵とエネルギーを集め、膨らませ、爆発させるのだ　さあゲーム制作を始まりだ！</p>
+          <p>岩手を中心にゲーム開発を行う開発者コミュニティ</p>
         </div>
 
         <h2>お知らせ</h2>
         <div class="entry news">
           <div class="info">
-            <span class="datetime">2013.8.19</span>
+            <span class="datetime">2013.8.20</span>
           </div>
           <div class="description">
-            Iwate Game Developers ウェブサイトを公開しました<br>
+            Iwate Game Developers ウェブサイトを公開しました<br>
             http://iwategamedevelopers.com
           </div>
         </div>
@@ -24,30 +22,25 @@
         <div class="description">
           <h3>趣旨</h3>
           Iwate Game Develoersは、<br>
-          I.G.F参加者および、ゲームを開発したい、参加したい人が自由にゲーム作りを行う開発者の集まりです。<br>
-          国籍、性別、年齢を問わず、どなたでも自由に参加できます。<br>
-          ゲームの企画を持ち寄ったり、自分の得意なスキルを生かしてゲーム制作に参加したり。参加スタイルは自由です。 <br>
-          そしてI.G.Fに来ていただいた講師の方々、日本、そして世界を夢中にさせる何かを生み出しましょう！
+          I.G.F参加者および、ゲームを開発したい、参加したい人が自由にゲーム作りを行う開発者の集まりです。<br>
+          国籍、性別、年齢を問わず、どなたでも自由に参加できます。<br>
+          ゲームの企画を持ち寄ったり、自分の得意なスキルを生かしてゲーム制作に参加したり。参加スタイルは自由です。 <br>
+          そしてI.G.Fに来ていただいた講師の方々、日本、そして世界を夢中にさせる何かを生み出しましょう！
           <h3>何かいいことある？</h3>
           自分が妄想したゲームを誰かがかたちにしてくれるかも。　自分にないスキルを持った人に何かをお願いできるかもしれません。　とりあえず勉強になるかもです。
           <h3>参加方法</h3>
           グループウェアがありますのでサイボウズliveのアカウントを登録してみましょう。<br>
-          それからsupport@iwategamedevelopersに参加希望のメールを送信するか、http://lingr.com/room/IGF_developers のチャットにいる誰かに参加したいといえば、ドラクエのルイーダの酒場的なグループに招待いたします。（連絡用としてメールアドレスは必須です）　その後はどんなプロジェクトに参加するかなどご自由にどうぞ
+          それからsupport@iwategamedevelopers.comに参加希望のメールを送信するか、http://lingr.com/room/IGF_developers のチャットにいる誰かに参加したいといえば、ドラクエのルイーダの酒場的なグループに招待いたします。（連絡用としてメールアドレスは必須です）　その後はどんなプロジェクトに参加するかなどご自由にどうぞ
           <h3>I.G.Fとの関係</h3>
-          I.G.F参加者がIwateGameDevelopersを立ち上げました。それ以外は基本的に無関係です。
+          I.G.F参加者がIwateGameDevelopersを立ち上げました。それ以外は基本的に無関係です。
         </div>
       </div>
 
       <h2>I.G.Fとは</h2>
       <div class="entry toppage_text">
         <div class="description">
-          <p>I.G.F は、岩手県出身のゲーム開発者が立ち上げの中心となり、第一線でご活躍の一流ゲームクリエーターの皆様と共に、岩手県の新たな産業創成と力強い未来を目指すプロジェクトです。</p>
-          I.G.Fの詳細は<a href="https://www.facebook.com/IwateGameFactory">https://www.facebook.com/IwateGameFactory</a>を御覧ください
+          <p>I.G.F は、岩手県出身のゲーム開発者が立ち上げの中心となり、第一線でご活躍の一流ゲームクリエーターの皆様と共に、岩手県の新たな産業創成と力強い未来を目指すプロジェクトです。</p>
+          I.G.Fの詳細は<a href="https://www.facebook.com/IwateGameFactory">https://www.facebook.com/IwateGameFactory</a>を御覧ください
       </div>
 
-      <div id="footer">
-        <div id="copyright">
-          Copyright &copy;2013 Iwate Game Developers.
-        </div>
-      </div>
 [% END %]
