@@ -1,0 +1,6 @@
+[% WRAPPER 'include/layout.tt' %]
+      <div id="content">
+      <h1>Iwate Game Developers が作り出した何か</h1>
+      <p>まだありません～ 2013/8/19日現在</p>
+      </div>
+[% END %]

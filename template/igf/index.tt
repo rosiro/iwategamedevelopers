@@ -1,0 +1,18 @@
+[% WRAPPER 'include/layout.tt' WITH title = 'I.G.F講師、ゲーム開発系情報' %]
+
+<div id="content">
+  <h1>I.G.F講師、ゲーム開発系情報</h1>
+  <ul class="nav nav-tabs">
+    <li class="active"><a href="#">あ</a></li>
+    <li><a href="#">か</a></li>
+    <li><a href="#">さ</a></li>
+    <li><a href="#">た</a></li>
+    <li><a href="#">な</a></li>
+    <li><a href="#">は</a></li>
+    <li><a href="#">ま</a></li>
+    <li><a href="#">や</a></li>
+    <li><a href="#">わ</a></li>
+  </ul>
+  <p>現在準備中～</p>
+</div>
+[% END %]

@@ -1,0 +1,69 @@
+.toptitle {
+    font-family: 'Play', sans-serif;
+}
+
+.title {
+    font-size: 3em;
+    line-height: 1em;
+}
+
+.entry {
+    margin-left: 20px;
+    color: black;
+    font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+    line-height: 1.5;
+    padding: 1em;
+    margin-bottom:1em;
+}
+
+.news {
+    border: medium solid #414141;
+    font-size: 16px;
+}
+
+.toppage_text {
+    font-size: 13px;
+}
+
+.info {
+}
+
+.datetime {
+    font-family: 'Oswald', sans-serif;
+}
+
+.description {
+    font-size: 2em;
+    line-height: 1em;
+    line-height: 1.5em;
+}
+
+#footer {
+    position: absolute;
+    font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 1em;
+    margin-top: 3em;
+}
+
+#copyright {
+}
+
+#content h1 {
+    font-size: 2.5em;
+    margin-top: 2em;
+    margin-left: 20px;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-top: 2em;
+    margin-left: 20px;
+}
+
+h3 {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #CCCCCC;
+}

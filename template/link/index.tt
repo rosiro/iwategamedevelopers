@@ -1,0 +1,7 @@
+[% WRAPPER 'include/layout.tt' WITH title = 'リンク'%]
+<div id="content">
+  <h1>リンク</h1>
+  <ul>
+    <li><a href="https://www.facebook.com/IwateGameFactory">I.G.F ( https://www.facebook.com/IwateGameFactory )</a>
+</div>
+[% END %]
