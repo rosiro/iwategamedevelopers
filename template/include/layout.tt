@@ -66,8 +66,8 @@
     <script src="static/bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript">
       $('.nav-tabs a').click(function (e) {
-      e.preventDefault()
-      $(this).tab('show')
+        e.preventDefault();
+        $(this).tab('show');
       })
     </script>
 
