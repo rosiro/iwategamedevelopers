@@ -15,9 +15,9 @@ any '/games' => sub {
     return $c->render('games/index.tt');
 };
 
-any '/igf' => sub {
+any '/igd' => sub {
     my ($c) = @_;
-    return $c->render('igf/index.tt');
+    return $c->render('igd/index.tt');
 };
 
 any '/link' => sub {
